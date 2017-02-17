@@ -21,7 +21,11 @@ import com.solai.model.Issue;
 import com.solai.model.User;
 import com.solai.service.TicketPlacingService;
 import com.solai.util.MailUtil;
-
+/**
+ * Hello
+ * @author DELL
+ *
+ */
 @Controller
 @RequestMapping("/tickets")
 public class TicketController 
